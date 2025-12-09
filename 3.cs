@@ -88,7 +88,7 @@
 ////    }
 
 ////    static DataRelation CreateCategoryProductRelation(DataTable parent, DataTable child)
-////    {
+///    {
 ////        try
 ////        {
 ////            DataColumn parentColumn = parent.Columns["CategoryID"];
@@ -3501,4 +3501,5 @@
 //            return (after - before) / 1024.0 / 1024.0;
 //        }
 //    }
+
 //}
